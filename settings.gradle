@@ -1,0 +1,2 @@
+include ':app', ':softpalexception'
+rootProject.name='SoftpalExceptions'
